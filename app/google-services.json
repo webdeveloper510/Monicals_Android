@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "406892062452",
+    "firebase_url": "https://monicals-pizza.firebaseio.com",
+    "project_id": "monicals-pizza",
+    "storage_bucket": "monicals-pizza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406892062452:android:d67d32392a2e13eb",
+        "android_client_info": {
+          "package_name": "com.monicals.monicalspizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406892062452-u82rrdqpv566b0kpou639ikem4dqrevk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monicals.monicalspizza",
+            "certificate_hash": "b9041c5d3d465e5407d09da8d71b1f28d1ae8ded"
+          }
+        },
+        {
+          "client_id": "406892062452-ap6j2sgab5tad5b5mbsf1n7hrkva2vkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWXCB39bnGxlDuVXJlApzAhASCuCsTvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Monical\'s Pizza</string>
+    <string name="nav_order">Order</string>
+    <string name="nav_giftcards">Gift Cards</string>
+    <string name="nav_fb">Facebook</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="store_name_key"></string>
+    <string name="state_key"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

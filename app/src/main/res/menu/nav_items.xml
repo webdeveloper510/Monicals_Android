@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_order" android:title="@string/nav_order" android:icon="@drawable/ic_order_black"/>
+    <item android:id="@+id/navigation_giftcards" android:title="@string/nav_giftcards" android:icon="@drawable/ic_giftcards_black"/>
+    <item android:id="@+id/navigation_fb" android:title="@string/nav_fb" android:icon="@drawable/ic_fb_black"/>
+    <item android:id="@+id/navigation_nutrition" android:title="@string/nav_nutrition" android:icon="@drawable/ic_nutrition_black"/>
+</menu>
